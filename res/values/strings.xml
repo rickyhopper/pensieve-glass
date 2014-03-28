@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pensieve</string>
+    <string name="sensor_stream_voice_trigger">stream away</string>
+    <string name="server_address">tcp://192.168.1.13:61455</string>
+    <string name="server_address2">tcp://pac.bz:61455</string>
+
+</resources>
